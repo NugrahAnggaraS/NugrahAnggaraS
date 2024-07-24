@@ -5,8 +5,8 @@ head
 
 
 <!-- interest -->
-<h2 align="center">🛠️ Tools 🛠️</h2>
-<div align="center">
+<h2>🛠️ Tools 🛠️</h2>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -41,7 +41,7 @@ head
 stats
 -->
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -65,15 +65,12 @@ stats
 
 
 <!-- jokes -->
-<p align="center">
-  <img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
-  
-  <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" width="400">
+<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" width="400">
 
 
-    <h2 align="center"> 📱 Connect With Me : </h2>
-  <div align ="center">
+<h2 align="center"> 📱 Connect With Me : </h2>
+  <div>
       <a href="https://linkedin.com/in/nugrah anggara siregar" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="nugrah anggara siregar" height="30" width="40" /></a>
       <a href="https://instagram.com/angga_5.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="angga_5.0" height="30" width="40" /></a>
       <a href="https://medium.com/@nugrahanggara" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" alt="@nugrahanggara" height="30" width="40" /></a>
