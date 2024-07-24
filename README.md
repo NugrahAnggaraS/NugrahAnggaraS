@@ -1,11 +1,44 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NugrahAnggaraS.NugrahAnggaraS">
+<!---
+head
+-->
+<center><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=800&pause=1000&color=41B883&background=73FFAE00&width=435&lines=Hello%2C+There+%F0%9F%91%8B;I+am+Nugrah+Anggara+Siregar;A+Mobile+Developer"></center>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=800&pause=1000&color=06D001&background=73FFAE00&width=435&lines=Hello%2C+There+%F0%9F%91%8B;I+am+Nugrah+Anggara+Siregar...;A+Mobile+Developer">
-  </a>
-</h1>
+<h2 align="center">🛠️ Languange 🛠️</h2>
+<center>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</center>
 
+<!-- interest -->
+<h2 align="center">🛠️ Framework And Tools 🛠️</h2>
+<center>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</center>
 
 <!---
 stats
@@ -34,9 +67,24 @@ stats
 </p>
 
 
+<!-- jokes -->
+<p align="center">
+  <img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
+  
+  <p align="center">
+    <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" width="400">
+
+
+    <h2 align="center">📱 Connect With Me :</h2>
+    <center>
+      <a href="https://linkedin.com/in/nugrah anggara siregar" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="nugrah anggara siregar" height="30" width="40" /></a>
+      <a href="https://instagram.com/angga_5.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="angga_5.0" height="30" width="40" /></a>
+      <a href="https://medium.com/@nugrahanggara" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" alt="@nugrahanggara" height="30" width="40" /></a>
+  </center>
+
 <!---
 note
 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=06D001&section=footer&reversal=false&width=100" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=41B883&section=footer" width="100%"/>
+
+
