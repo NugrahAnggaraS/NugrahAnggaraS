@@ -1,1 +1,5 @@
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
+
+
+<p align="center">
+  [<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>](https://capsule-render.vercel.app/apitype=waving&height=120&color=06D001&section=footer&reversal=false)
+</p>
