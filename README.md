@@ -5,7 +5,7 @@ head
 
 
 <!-- interest -->
-<h2>🛠️ Tools 🛠️</h2>
+<b>🛠️ Tools 🛠️</b>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
     <img width="12" />
@@ -41,7 +41,7 @@ head
 stats
 -->
 
-<h2>⚡ Stats ⚡</h2>
+<b>⚡ Stats ⚡</b>
 <br>
 <p align=center>
   <div align=center>
@@ -55,12 +55,10 @@ stats
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NugrahAnggaraS&show_icons=true&theme=vue-dark" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=NugrahAnggaraS&theme=vue&bg_color=20232a&hide_border=true" width="100%"/>
     </a>
   </div>
   <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NugrahAnggaraS&theme=vue&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
@@ -69,7 +67,7 @@ stats
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" width="400">
 
 
-<h2 align="center"> 📱 Connect With Me : </h2>
+<b> 📱 Connect With Me : </b>
   <div>
       <a href="https://linkedin.com/in/nugrah anggara siregar" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="nugrah anggara siregar" height="30" width="40" /></a>
       <a href="https://instagram.com/angga_5.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="angga_5.0" height="30" width="40" /></a>
