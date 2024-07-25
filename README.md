@@ -12,6 +12,9 @@ head
 <!-- interest -->
 ## 🛠️ Tools
 <div>
+  <div>
+    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NugrahAnggaraS&layout=compact"/>
+  </div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -57,6 +60,7 @@ stats
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=NugrahAnggaraS&show_icons=true&theme=vue-dark" />
     </a>
   </div>
+
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
